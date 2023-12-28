@@ -1,0 +1,30 @@
+Voice Commands
+
+How are you ? 
+	Fine
+
+Open Youtube 
+
+Open Google
+
+Open Stack over flow
+
+Open [App Name]
+
+Tell me a joke
+
+Shutdown the PC
+
+Restart the PC
+
+Weather of Mumbai or [City/Town]
+
+Search [Any Query] eg: Search Who is Ant-Man
+
+Play [Song Name] eg: Play Close Eyes
+
+Write a Note
+
+Show the Note 
+
+NOTE: If said any thing other than command it will search the web.
